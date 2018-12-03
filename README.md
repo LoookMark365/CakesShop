@@ -65,9 +65,9 @@
 
 1.在本地或服务器上安装mysql数据库(如果版本较高请考虑更新数据库连接驱动).
 
-2.将/database/cakesshop.sql文件还原至数据库中.
+2.将CookieShop/database/cakesshop.sql文件还原至数据库中.
 
-3.在/src/c3p0-config.xml中的文字替换,主要有连接字符串,用户名和密码.
+3.在CookieShop/src/c3p0-config.xml中的文字替换,主要有连接字符串,用户名和密码.
 
 4.使用idea打开项目并重新指定jdk.
 

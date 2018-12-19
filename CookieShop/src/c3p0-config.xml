@@ -4,9 +4,9 @@
 	<default-config>
 		<property name="driverClass">com.mysql.cj.jdbc.Driver</property>
 		<property name="jdbcUrl">
-			<![CDATA[jdbc:mysql://123.206.49.150:3306/cakeshop?useUnicode=true&characterEncoding=UTF-8&useSSL=true&serverTimezone=GMT]]>
+			<![CDATA[数据库连接字符串]]>
 		</property>
-		<property name="user">root</property>
-		<property name="password">weizhilin815</property>
+		<property name="user">用户名</property>
+		<property name="password">密码</property>
 	</default-config>
 </c3p0-config>
